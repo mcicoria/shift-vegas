@@ -5,5 +5,7 @@
   , "dependencies": {
       "express": "2.5.8"
 	, "mu2": ">= 0.5.13"
+	, "connect-heroku-redis": "*"
+
   }
 }
