@@ -47,7 +47,7 @@
 		Join the Conversation.
 		</div>
 		<div class="span2">
-		<a href="http://twitter.com/shiftvegas">Twitter</a><br>
+		<a href="https://twitter.com/#!/search/%23shiftvegas?q=%23shiftvegas">Twitter</a><br>
 		<a href="https://www.facebook.com/shiftvegas" target="_blank">Facebook</a><br>
 		<a href="http://ayloo.net/stream/438/shift-vegas" target="_blank">Ayloo</a>
 		</div>
