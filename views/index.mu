@@ -1,4 +1,3 @@
-
 <!DOCTYPE html>
 <html lang="en">
   <head>
@@ -44,14 +43,14 @@
   </head>
 
   <body>
-  <div id="fb-root"></div>
-  <script>(function(d, s, id) {
-    var js, fjs = d.getElementsByTagName(s)[0];
-    if (d.getElementById(id)) return;
-    js = d.createElement(s); js.id = id;
-    js.src = "//connect.facebook.net/en_US/all.js#xfbml=1&appId=364945086910674";
-    fjs.parentNode.insertBefore(js, fjs);
-  }(document, 'script', 'facebook-jssdk'));</script>
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/en_US/all.js#xfbml=1&appId=394167447299186";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
 
 
 
@@ -64,13 +63,17 @@
 		</div>
 		<div class="span2">
 		Collaborate with community, share ideas and help make Vegas the best place to live, work and play. <br><br>
-		Join the Conversation.
-    <div class="fb-like" style="margin-top:20px;" data-href="http://shiftvegas.org" data-send="false" data-width="450" data-show-faces="true" data-colorscheme="dark"></div>
+		Join the conversation.
 		</div>
 		<div class="span2">
 		<a href="https://twitter.com/#!/search/%23shiftvegas?q=%23shiftvegas">Twitter</a><br>
 		<a href="https://www.facebook.com/shiftvegas" target="_blank">Facebook</a><br>
-		<a href="http://ayloo.net/stream/438/shift-vegas" target="_blank">Ayloo</a>
+		<a href="http://ayloo.net/stream/438/shift-vegas" target="_blank">Ayloo</a><br><br>
+
+<div class="fb-like" data-href="http://facebook.com/shiftvegas" data-send="false" data-layout="button_count" data-width="200" data-show-faces="false" data-colorscheme="dark" data-font="verdana"></div>
+<br>
+<a href="https://twitter.com/share" class="twitter-share-button" data-url="www.shiftvegas.org" data-via="ShiftVegas" data-hashtags="ShiftVegas">Tweet</a>
+<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src="//platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
 		</div>
 		<div class="span2">
 		<a href="http://ayloo.net/stream/164/vegas-tech" target="_blank">Tech</a><br>
