@@ -32,13 +32,13 @@
 
   <body>
   <div id="fb-root"></div>
-<script>(function(d, s, id) {
-  var js, fjs = d.getElementsByTagName(s)[0];
-  if (d.getElementById(id)) return;
-  js = d.createElement(s); js.id = id;
-  js.src = "//connect.facebook.net/en_US/all.js#xfbml=1&appId=364945086910674";
-  fjs.parentNode.insertBefore(js, fjs);
-}(document, 'script', 'facebook-jssdk'));</script>
+  <script>(function(d, s, id) {
+    var js, fjs = d.getElementsByTagName(s)[0];
+    if (d.getElementById(id)) return;
+    js = d.createElement(s); js.id = id;
+    js.src = "//connect.facebook.net/en_US/all.js#xfbml=1&appId=364945086910674";
+    fjs.parentNode.insertBefore(js, fjs);
+  }(document, 'script', 'facebook-jssdk'));</script>
 
 
 
@@ -52,7 +52,7 @@
 		<div class="span2">
 		Collaborate with community, share ideas and help make Vegas the best place to live, work and play. <br><br>
 		Join the Conversation.
-        <div style="margin-top:20px;" class="fb-like" data-href="http://shiftvegas.org" data-send="false" data-width="450" data-show-faces="true" data-colorscheme="dark" data-font="arial"></div>
+    <div class="fb-like" style="margin-top:20px;" data-href="http://shiftvegas.org" data-send="false" data-width="450" data-show-faces="true" data-colorscheme="dark"></div>
 		</div>
 		<div class="span2">
 		<a href="https://twitter.com/#!/search/%23shiftvegas?q=%23shiftvegas">Twitter</a><br>
