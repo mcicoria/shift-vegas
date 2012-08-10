@@ -7,7 +7,7 @@
     <meta name="description" content="">
     <meta name="author" content="">
 
-    <!-- Le styles -->
+    <!-- Le styles and cats-->
     <link href="css/bootstrap.css" rel="stylesheet">
     <style>
       body {
@@ -97,10 +97,10 @@
 
 
 </div>
- 
- 	   
 
- 
+
+
+
 
     <!-- Le javascript
     ================================================== -->
@@ -118,7 +118,7 @@
     <script src="js/bootstrap-collapse.js"></script>
     <script src="js/bootstrap-carousel.js"></script>
     <script src="js/bootstrap-typeahead.js"></script>
-    
+
     </script>
 
   </body>
