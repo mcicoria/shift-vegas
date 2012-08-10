@@ -44,8 +44,11 @@
 
   <body>
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
   <div id="fb-root"></div>
+>>>>>>> Local Update
+=======
 >>>>>>> Local Update
 <div id="fb-root"></div>
 <script>(function(d, s, id) {
@@ -97,10 +100,10 @@
 
 
 </div>
- 
- 	   
 
- 
+
+
+
 
     <!-- Le javascript
     ================================================== -->
@@ -118,7 +121,7 @@
     <script src="js/bootstrap-collapse.js"></script>
     <script src="js/bootstrap-carousel.js"></script>
     <script src="js/bootstrap-typeahead.js"></script>
-    
+
     </script>
 
   </body>
