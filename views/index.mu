@@ -7,7 +7,7 @@
     <meta name="description" content="">
     <meta name="author" content="">
 
-    <!-- Le styles and cats-->
+    <!-- Le styles and cats and more cats-->
     <link href="css/bootstrap.css" rel="stylesheet">
     <style>
       body {
@@ -43,10 +43,7 @@
   </head>
 
   <body>
-<<<<<<< HEAD
-=======
-  <div id="fb-root"></div>
->>>>>>> Local Update
+
 <div id="fb-root"></div>
 <script>(function(d, s, id) {
   var js, fjs = d.getElementsByTagName(s)[0];
